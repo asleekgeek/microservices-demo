@@ -129,7 +129,7 @@ langchain-postgres==0.0.16
     # via langchain-google-alloydb-pg
 langgraph==1.0.10rc1
     # via langchain
-langgraph-checkpoint==3.0.1
+langgraph-checkpoint==4.0.0
     # via
     #   langgraph
     #   langgraph-prebuilt
@@ -149,7 +149,7 @@ numpy==2.3.3
     #   langchain-google-alloydb-pg
     #   langchain-postgres
     #   pgvector
-orjson==3.11.6
+orjson==3.11.7
     # via
     #   langgraph-sdk
     #   langsmith
